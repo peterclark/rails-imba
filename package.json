@@ -1,0 +1,11 @@
+{
+  "name": "rails-imba",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "imba": "^1.4.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
